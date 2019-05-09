@@ -1,0 +1,1 @@
+[2018-12-10 15:17:52,320] readconf.py-->read_cof line:16 [ERROR]文件不存在，或者权限不足!!! [Errno 2] No such file or directory: '/app/sendermail/conf/cf.json'
