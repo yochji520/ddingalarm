@@ -11,11 +11,11 @@
 2) 启动方式
     
 
-    python3 bin/control.py start &
+    python3 bin/control.py start 
     
     python3 bin/control.py stop
     
-    python3 bin/control.py restart &
+    python3 bin/control.py restart 
     
     
 
