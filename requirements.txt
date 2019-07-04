@@ -1,5 +1,4 @@
-Django==2.1.8
-django-filter==2.0.0
+Django==2.1.10django-filter==2.0.0
 djangorestframework==3.9.1
 pycparser==2.19
 pycryptodome==3.6.6
