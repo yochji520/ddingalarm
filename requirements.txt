@@ -1,8 +1,16 @@
-Django==2.1.10django-filter==2.0.0
+Django==2.1.10
+django-filter==2.0.0
+
 djangorestframework==3.9.1
+
 pycparser==2.19
+
 pycryptodome==3.6.6
+
 PyMySQL==0.9.2
+
 redis==2.10.6
+
 requests==2.20.1
+
 urlparser==0.1.2
